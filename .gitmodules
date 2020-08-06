@@ -1,0 +1,6 @@
+[submodule "lib/OASIS_matlab"]
+	path = lib/OASIS_matlab
+	url = https://github.com/zhoupc/OASIS_matlab.git
+[submodule "lib/Suite2P"]
+	path = lib/Suite2P
+	url = https://github.com/yunik1004/Suite2P.git

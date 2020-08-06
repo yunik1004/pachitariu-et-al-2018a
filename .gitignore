@@ -1,0 +1,8 @@
+# Editor settings
+.vscode/
+
+# Matlab
+*.asv
+
+# Project settings
+data/
